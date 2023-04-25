@@ -1,0 +1,1 @@
+com.inzgapps2store.antututipsbenchmarktips_app2
